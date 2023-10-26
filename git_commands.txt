@@ -1,0 +1,5 @@
+git init
+git add
+git remote add origin "https://github.com/siyasmuhammed/demo_repo.git"
+git commit -m "msg"
+git push -u origin master
